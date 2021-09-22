@@ -9,3 +9,9 @@ var animal = {
   species: "shark",
   environment: "ocean",
 }
+
+var customer = {
+  name: "Jane Doe",
+  email: "janedoe@ewebsite.com",
+  phone: "1235551234",
+}
